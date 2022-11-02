@@ -1,5 +1,5 @@
 # Title
-Aging of biomass burning aerosols over west africa
+Aircraft measurements of biomass burning aerosols over west africa
 
 # Author
 Emma Layton
