@@ -15,3 +15,6 @@ jones did many studies in the region
 a large uncertaintity in modelling BBOA is the extent to which
 measurements in literature can be applied at a regional scale
 
+# simulattions
+we simulate the evolutuion of particle sizes as they are transported 
+away from the source region 
