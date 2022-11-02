@@ -23,3 +23,6 @@ away from the source region
 # methodology
 compared out measurements of particle aging with a model simulation
 model detailed in smith et al 2002
+
+# results
+coagulation is main growth mechanism
