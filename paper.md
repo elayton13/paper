@@ -1,8 +1,9 @@
 # Title
-Aging of biomass burning aerosols over west africa
+Simulations of biomass burning aerosols over west africa
 
 # Author
 Emma Layton
+john smith
 
 # introduction
 we present aircraft measurements of BBOA over west africa
