@@ -26,6 +26,3 @@ model detailed in smith et al 2002
 
 # results
 coagulation is main growth mechanism
-
-#figures
-ggplot of measurements
